@@ -12,3 +12,4 @@
 /Users/user/CSharpProject/obj/Debug/net10.0/CSharpProject.pdb
 /Users/user/CSharpProject/obj/Debug/net10.0/CSharpProject.genruntimeconfig.cache
 /Users/user/CSharpProject/obj/Debug/net10.0/ref/CSharpProject.dll
+/Users/user/CSharpProject/obj/Debug/net10.0/CSharpProject.sourcelink.json
