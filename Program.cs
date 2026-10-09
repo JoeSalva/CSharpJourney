@@ -1,80 +1,95 @@
-﻿// This is my first program
-// Console.WriteLine("Hello, World!");
+﻿// // This is my first program
+// // Console.WriteLine("Hello, World!");
 
-// String myString;
+// // String myString;
 
-// myString = "Hello, World!";
+// // myString = "Hello, World!";
 
-// String coolString = "GoodBye, World!";
+// // String coolString = "GoodBye, World!";
 
-// String firstName = "John";
-// String lastName = "Doe";
-// String fullName = firstName + " " + lastName;
+// // String firstName = "John";
+// // String lastName = "Doe";
+// // String fullName = firstName + " " + lastName;
 
-// int my_int;
+// // int my_int;
 
-// float myFloat;
-// double myDouble;
+// // float myFloat;
+// // double myDouble;
 
-// my_int = 5;
-// myFloat = 5.5f;
-// myDouble = 5.5d;
+// // my_int = 5;
+// // myFloat = 5.5f;
+// // myDouble = 5.5d;
 
-// Console.WriteLine(my_int);
-// Console.WriteLine(myFloat);
-// Console.WriteLine(myDouble);
+// // Console.WriteLine(my_int);
+// // Console.WriteLine(myFloat);
+// // Console.WriteLine(myDouble);
 
 
-// Console.WriteLine(fullName);
+// // Console.WriteLine(fullName);
 
-// myString = Console.ReadLine();
+// // myString = Console.ReadLine();
 
-// Console.WriteLine(myString.Length);
+// // Console.WriteLine(myString.Length);
 
-// int myInt = 5;
-// double myDouble = myInt;
+// // int myInt = 5;
+// // double myDouble = myInt;
 
-// Console.WriteLine($"Int = {myInt}");
-// Console.WriteLine($"Double = {myDouble}");
+// // Console.WriteLine($"Int = {myInt}");
+// // Console.WriteLine($"Double = {myDouble}");
 
-// if (true)
-// {
-//     Console.WriteLine("This will always print");
-// }
+// // if (true)
+// // {
+// //     Console.WriteLine("This will always print");
+// // }
 
-// if (!false)
-// {
-//     Console.WriteLine("This will never print");
-// }
+// // if (!false)
+// // {
+// //     Console.WriteLine("This will never print");
+// // }
 
-// int num = 1;
+// // int num = 1;
 
-// if (num < 5)
-// {
-//     Console.WriteLine("This number is bettween 1 and 5");
-// }
-// else if (num == 5)
-// {
-//     Console.WriteLine("This number is equal to 5");
-// }
-// else
-// {
-//     Console.WriteLine("The number is greater than 5");
-// }
+// // if (num < 5)
+// // {
+// //     Console.WriteLine("This number is bettween 1 and 5");
+// // }
+// // else if (num == 5)
+// // {
+// //     Console.WriteLine("This number is equal to 5");
+// // }
+// // else
+// // {
+// //     Console.WriteLine("The number is greater than 5");
+// // }
 
-// To test operators in control flow
+// // To test operators in control flow
 
-// num = 3;
+// // num = 3;
 
-// if (num >= 1 && num <= 5)
-// {
-//     Console.WriteLine("This number is less than 5");
-// }
-// else if (num == 5)
-// {
-//     Console.WriteLine("This number is equal to 5");
-// }
-// else
-// {
-//     Console.WriteLine("The number is greater than 5");
-// }
+// // if (num >= 1 && num <= 5)
+// // {
+// //     Console.WriteLine("This number is less than 5");
+// // }
+// // else if (num == 5)
+// // {
+// //     Console.WriteLine("This number is equal to 5");
+// // }
+// // else
+// // {
+// //     Console.WriteLine("The number is greater than 5");
+// // }
+
+// int num = 6;
+
+// string result = num < 5
+// ? "The number is less than 5":
+// "The number is greater than 5";
+
+// Console.WriteLine(result);
+
+// int [] number =
+// [
+//     3,
+//     6,
+//     7
+// ];
